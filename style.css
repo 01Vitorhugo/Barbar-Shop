@@ -120,6 +120,54 @@ body {
   margin-top: 75px;
   color: transparent;
 }
+#img-conteudo1{
+  background-image: url(img/img-conteudo.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 100%;
+}
+#img-conteudo1:hover{
+  background: none;
+  transition: 1.5s;
+  /* background-color: blue; */
+  color: white;
+}
+#img-conteudo1 h2{
+  color: transparent;
+  height: 100%;
+  width: 100%;
+  margin-top: 30px;
+}
+#img-conteudo1 h2:hover{
+  color: white; 
+  transition: 1.5s;
+  /* margin-top: 100px; */
+  text-align: center;
+}
 
+#img-conteudo2{
+  background-image: url(img/img-conteudo2.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 100%;
+}
+#img-conteudo2:hover{
+  background: none;
+  transition: 1.5s;
+  /* background-color: blue; */
+  color: white;
+}
+#img-conteudo2 h2{
+  color: transparent;
+  height: 100%;
+  width: 100%;
+  margin-top: 30px;
+}
+#img-conteudo2 h2:hover{
+  color: white; 
+  transition: 1.5s;
+  /* margin-top: 100px; */
+  text-align: center;
+}
 
 
