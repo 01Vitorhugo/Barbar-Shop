@@ -57,6 +57,10 @@ body {
   border-radius: 50px;
 }
 
+#img1:hover {
+  border: solid black 2px;
+}
+
 .box-img #img1 {
   height: 100%;
   width: 20%;
@@ -98,6 +102,10 @@ body {
   margin-left: 3.7%;
   display: inline-block;
   box-shadow: 5px 5px 10px 5px rgb(197, 196, 196);
+}
+
+#img2:hover {
+  border: solid black 2px;
 }
 
 .box-img #img2:hover {

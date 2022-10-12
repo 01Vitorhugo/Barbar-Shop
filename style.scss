@@ -7,7 +7,7 @@
 }
 body{
     background-color: #2f3e46;
-    background-image: url(img/fundo-teste.jpg);
+    background-image: url(img/fundo.jpg);
 }
 .txt-princ{
     width: 100%;
@@ -21,7 +21,6 @@ body{
     margin-top: 30px;
     width: 80%;
     height: 100%;
-    // background-color: white;
     margin-left: 10%;
 }
 .main .menu{
@@ -53,6 +52,9 @@ body{
     margin-top: 25px;
     border-radius: 50px;
     
+}
+#img1:hover{
+    border: solid black 2px;
 }
 .box-img #img1{
     height: 100%;
@@ -96,6 +98,9 @@ body{
     // border: solid black;
     box-shadow: 5px 5px 10px 5px rgb(197, 196, 196);
     
+}
+#img2:hover{
+    border: solid black 2px;
 }
 .box-img #img2:hover{
     transform: scale(1.20);
