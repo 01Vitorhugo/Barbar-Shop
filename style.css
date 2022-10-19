@@ -38,12 +38,12 @@ body {
 
 .menu ul li {
   margin: 15px;
-  text-shadow: gold 1px 1px 1px;
 }
 
 .menu ul li:hover {
   text-decoration: overline;
   transform: scale(1.30);
+  text-shadow: black 2px 1px 1px;
 }
 
 .menu ul a {
@@ -114,49 +114,5 @@ body {
   text-align: center;
   color: white;
 }
-.pai{
-  width: 100%;
-  height: 400px;
-  margin-top: 75px;
-  position: relative;
-}
-.conteudo{
-  width: 100%;
-  height: 100%;
-  opacity: 0.5;
-  transition: 1.0s;
-  position: absolute;
-}
-.conteudo:hover{
-  opacity: 2.0;
-  transition: 2s;
-  
-}
-.txt-con{
-  color: transparent;
-  width: 100%;
-  height: 300px;
-  top: 100px;
-  padding-top: -100%;
-  margin: 0 auto;
-  position: relative;
-  padding: 10px;
-}
-.txt-con:hover{
-color: whitesmoke;
-transition: 2.5s;
-margin-top: 60px;
-}
-.img-con{
-width: 100%;
-height: 400px;
-position: absolute;
-border-radius: 50%;
-}
-
-.img-con img{
-  border-radius: 10px;  
-}
-
 
 
